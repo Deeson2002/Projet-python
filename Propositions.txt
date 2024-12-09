@@ -1,0 +1,4 @@
+Problématiques et titres proposés :
+Analyse des accidents à travers les facteurs démographiques et sociaux
+Analyse prédictive des profils de conducteurs : Identification des risques de sinistres graves
+Création d'un modèle prédictif pour la segmentation des conducteurs selon leurs profils de risque
