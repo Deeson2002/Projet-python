@@ -89,6 +89,4 @@ Comment peut-on mettre en place une segmentation efficace des accidents routiers
 
 # Référence
 
-Voici une référence pour ce travail :  
-
 **Galiana, Lino. 2023.** *Python pour la Data Science*. [https://doi.org/10.5281/zenodo.8229676](https://doi.org/10.5281/zenodo.8229676).
