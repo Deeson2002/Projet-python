@@ -3,12 +3,15 @@
 # PROJET DE PYTHON POUR LA DATA SCIENCE
 
 **Encadré par:**
+
 -Monsieur BENHELAL
 
 **Réalisé par :**
 
 -ROUCHI Wail
+
 -HOUNKPEVI Crespin Elisée
+
 -DJENONTIN Deeson
 
 **Contexte :**
