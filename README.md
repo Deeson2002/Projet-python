@@ -47,17 +47,19 @@ Comment peut-on mettre en place une segmentation efficace des accidents routiers
 
 -Les étapes principales seront :
 
+**Élimination de quelques variables indésirables pour notre étude.**
+
 **Fusion des bases de données à partir de clés communes, afin de construire une base unifiée intégrant facteurs socio-démographiques, environnementaux et techniques.**
 
 **Nettoyage des données, incluant :**
 
-**Détection et gestion des valeurs manquantes, des doublons, des valeurs aberrantes et des valeurs erronées.**
+*Détection et gestion des valeurs manquantes, des doublons et des valeurs erronées.*
 
-**Création de variables synthétiques, comme l’âge (calculé à partir de la date de naissance), et identification de regroupements via K-means.**
+*Création de variables synthétiques, comme l’âge (calculé à partir de la date de naissance), et identification de regroupements via K-means.*
 
-**Identification et traitement des outliers à l’aide de techniques et Isolation Forest.**
+*Identification et traitement des outliers à l’aide de techniques et Isolation Forest.*
 
--Résultat attendu : Une base de données propre et prête pour l’analyse descriptive.
+**-Résultat attendu : Une base de données propre et prête pour l’analyse descriptive.**
 
 # 2. Analyse Descriptive et Exploration des Données
 
@@ -80,8 +82,6 @@ Comment peut-on mettre en place une segmentation efficace des accidents routiers
 -Pour quantifier cette corrélation et obtenir des prédictions concrètes, nous choisissons d'utiliser les modèles RandomForestClassifier et XGBClassifier, qui sont bien adaptés à la segmentation des données. Ces modèles seront évalués en termes de performance à l’aide de recall, du score F1, des matrices de confusion et des courbes ROC.
 
 -L’évaluation nous montrera quel modèle est le plus efficace, celui offrant la meilleure capacité de prédiction.
-
-
 
 -Enfin, une réduction du nombre de variables sera réalisée à travers l'identification des variables les plus importantes pour simplifier le modèle tout en préservant sa précision. Cette approche permettra d’optimiser le modèle, de réduire les coûts de collecte de données et d'accélérer le traitement des informations, ce qui est essentiel dans le cadre d’une étude à grande échelle impliquant des métadonnées.
 
