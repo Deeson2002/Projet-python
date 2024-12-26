@@ -1,4 +1,16 @@
-# Modélisation Prédictive de la Gravité des Accidents Routiers en France
+# Modélisation prédictive de la gravité des accidents routiers en France : effets des facteurs socio-démographiques, techniques et environnementaux
+
+# PROJET DE PYTHON POUR LA DATA SCIENCE
+
+**Encadré par:**
+-Monsieur BENHELAL
+
+**Réalisé par :**
+
+-ROUCHI Wail
+-HOUNKPEVI Crespin Elisée
+-DJENONTIN Deeson
+
 **Contexte :**
 
 -Les accidents de la route représentent un enjeu majeur, tant humain qu’économique. En 2021, leur coût en France était estimé à 46,3 milliards d’euros, incluant les soins médicaux, réparations, pertes de productivité et indemnisations.
