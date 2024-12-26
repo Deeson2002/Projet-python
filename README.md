@@ -30,7 +30,7 @@
 
 # Problématique : 
 
-Comment peut-on mettre en place une segmentation efficace des accidents routiers en fonction de leur gravité tout en explorant des possibilités d'optimisation des modèles prédictifs pour améliorer la précision et la performance des résultats ? 
+Comment mettre en place une segmentation efficace des accidents routiers selon leur gravité, tout en explorant des pistes d'optimisation des modèles prédictifs pour maximiser la précision et la rapidité des résultats ?
 
 # Plan du Projet
 
