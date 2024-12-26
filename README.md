@@ -47,15 +47,15 @@ Comment peut-on mettre en place une segmentation efficace des accidents routiers
 
 -L’analyse descriptive sera réalisée en deux étapes :
 
-**Univariée : Exploration de chaque variable pour identifier les tendances globales. Les caractéristiques des accidents seront étudiées en fonction de l’âge des conducteurs, du type d’agglomération, des dispositifs de sécurité, etc.**
+1) Univariée : Exploration de chaque variable pour identifier les tendances globales. Les caractéristiques des accidents seront étudiées en fonction de l’âge des conducteurs, du type d’agglomération, des dispositifs de sécurité, etc.**
 
-**Multivariée : Analyse des relations entre différentes variables, par exemple :** 
+2) Multivariée : Analyse des relations entre différentes variables, par exemple :** 
 
-La corrélation entre la gravité des accidents et les conditions d’éclairage.
+**La corrélation entre la gravité des accidents et les conditions d’éclairage.**
 
-L’impact du type de véhicule sur la gravité des blessures.
+**L’impact du type de véhicule sur la gravité des blessures.**
 
-Nous utiliserons des visualisations graphiques (histogrammes, graphiques en cartes, diagrammes de dispersion) pour identifier des patterns et mieux comprendre les interactions complexes entre les variables.
+**Nous utiliserons des visualisations graphiques (histogrammes, graphiques en cartes, diagrammes de dispersion) pour identifier des patterns et mieux comprendre les interactions complexes entre les variables.**
 
 -Objectif : Confirmer que les facteurs socio-démographiques, environnementaux et techniques influencent de manière significative la gravité des accidents, tout en identifiant les variables les plus déterminantes. Cela nous permettra d’obtenir une vision plus claire de notre problématique avant de la modéliser et de la concrétiser à travers des modèles prédictifs.
 
