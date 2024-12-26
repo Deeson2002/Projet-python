@@ -1,5 +1,6 @@
 # Modélisation Prédictive de la Gravité des Accidents Routiers en France
 Contexte
+
 Les accidents de la route représentent un enjeu majeur, tant humain qu’économique. En 2021, leur coût en France était estimé à 46,3 milliards d’euros, incluant les soins médicaux, réparations, pertes de productivité et indemnisations.
 
 Ce projet vise à prédire la gravité des accidents routiers à partir de données socio-démographiques, environnementales et techniques, en utilisant des techniques de machine learning. L’objectif est de fournir des informations exploitables pour orienter les politiques publiques, ajuster les stratégies assurantielles, et optimiser la gestion des risques liés à la sécurité routière.
@@ -7,7 +8,9 @@ Ce projet vise à prédire la gravité des accidents routiers à partir de donn�
 Les analyses et prédictions réalisées dans ce projet permettront :
 
 Une meilleure compréhension des facteurs influençant la gravité des accidents, tels que l’âge des conducteurs, le type d’agglomération ou la présence de dispositifs de sécurité.
+
 Une segmentation précise des profils d’accidents, facilitant un ciblage efficace des interventions.
+
 Une optimisation des coûts sociaux et économiques liés aux accidents.
 
 # Problématique : 
