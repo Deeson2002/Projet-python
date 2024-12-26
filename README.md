@@ -14,6 +14,7 @@
 **Une optimisation des coûts sociaux et économiques liés aux accidents.**
 
 # Problématique : 
+
 Comment peut-on mettre en place une segmentation efficace des accidents routiers en fonction de leur gravité tout en explorant des possibilités d'optimisation des modèles prédictifs pour améliorer la précision et la performance des résultats ? 
 
 # Plan du Projet
@@ -51,38 +52,20 @@ Comment peut-on mettre en place une segmentation efficace des accidents routiers
 
 2) Multivariée : Analyse des relations entre différentes variables, par exemple :
 
-*La corrélation entre la gravité des accidents et les conditions d’éclairage.**
+*La corrélation entre la gravité des accidents et les conditions d’éclairage.*
 
-*L’impact du type de véhicule sur la gravité des blessures.**
+*L’impact du type de véhicule sur la gravité des blessures.*
 
-*Nous utiliserons des visualisations graphiques (histogrammes, graphiques en cartes, diagrammes de dispersion) pour identifier des patterns et mieux comprendre les interactions complexes entre les variables.**
+*Nous utiliserons des visualisations graphiques (histogrammes, graphiques en cartes, diagrammes de dispersion) pour identifier des patterns et mieux comprendre les interactions complexes entre les variables.*
 
 **-Objectif : Confirmer que les facteurs socio-démographiques, environnementaux et techniques influencent de manière significative la gravité des accidents, tout en identifiant les variables les plus déterminantes. Cela nous permettra d’obtenir une vision plus claire de notre problématique avant de la modéliser et de la concrétiser à travers des modèles prédictifs.**
 
 # 3. Modélisation Prédictive
 
-Nous mettrons en œuvre des modèles de machine learning pour segmenter les données et prédire la gravité des accidents :
+-Pour quantifier cette corrélation et obtenir des prédictions concrètes, nous choisissons d'utiliser les modèles RandomForestClassifier et XGBClassifier, qui sont bien adaptés à la segmentation des données. Ces modèles seront évalués en termes de performance à l’aide de recall, du score F1, des matrices de confusion et des courbes ROC.
 
-Modèles utilisés :
+-L’évaluation nous montrera quel modèle est le plus efficace, celui offrant la meilleure capacité de prédiction.
 
-Random Forest
+-Enfin, une réduction du nombre de variables sera réalisée à travers l'identification des variables les plus importantes pour simplifier le modèle tout en préservant sa précision. Cette approche permettra d’optimiser le modèle, de réduire les coûts de collecte de données et d'accélérer le traitement des informations, ce qui est essentiel dans le cadre d’une étude à grande échelle impliquant des métadonnées.
 
-XGBoost
-
-Évaluation des performances :
-
-Précision
-
-Rappel
-
-F-mesure
-
-Courbes ROC
-
-Nous intégrerons également une réduction de la dimensionnalité pour optimiser les performances tout en réduisant le nombre de variables. Cette étape permettra :
-
-Une rapidité accrue des traitements.
-
-Une gestion plus efficace des coûts associés à l’analyse des données.
-
-Objectif final : Identifier le modèle le plus performant et fournir des insights exploitables pour améliorer la sécurité routière.
+**Ainsi, l'objectif de ce travail sera de répondre à notre problématique en segmentant efficacement les accidents selon leur gravité et en identifiant les variables les plus importantes, tout en optimisant les modèles pour une prédiction précise et rapide.**
