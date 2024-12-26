@@ -35,7 +35,7 @@ Comment peut-on mettre en place une segmentation efficace des accidents routiers
 
 **Nettoyage des données, incluant :**
 
-**Détection et gestion des valeurs manquantes, doublons et valeurs aberrantes.**
+**Détection et gestion des valeurs manquantes, des doublons, des valeurs aberrantes et des valeurs erronées.**
 
 **Création de variables synthétiques, comme l’âge (calculé à partir de la date de naissance), et identification de regroupements via K-means.**
 
@@ -45,19 +45,19 @@ Comment peut-on mettre en place une segmentation efficace des accidents routiers
 
 # 2. Analyse Descriptive et Exploration des Données
 
-L’analyse descriptive sera réalisée en deux étapes :
+-L’analyse descriptive sera réalisée en deux étapes :
 
-Univariée : Exploration de chaque variable pour identifier les tendances globales. Les caractéristiques des accidents seront étudiées en fonction de l’âge des conducteurs, du type d’agglomération, des dispositifs de sécurité, etc.
+**Univariée : Exploration de chaque variable pour identifier les tendances globales. Les caractéristiques des accidents seront étudiées en fonction de l’âge des conducteurs, du type d’agglomération, des dispositifs de sécurité, etc.**
 
-Bivariée : Analyse des relations entre deux variables, par exemple :
+**Multivariée : Analyse des relations entre différentes variables, par exemple :** 
 
-La corrélation entre la gravité des accidents et les conditions météorologiques.
+La corrélation entre la gravité des accidents et les conditions d’éclairage.
 
 L’impact du type de véhicule sur la gravité des blessures.
 
-Nous utiliserons des visualisations graphiques (histogrammes, heatmaps, scatter plots) pour identifier des patterns et mieux comprendre les interactions complexes entre les variables.
+Nous utiliserons des visualisations graphiques (histogrammes, graphiques en cartes, diagrammes de dispersion) pour identifier des patterns et mieux comprendre les interactions complexes entre les variables.
 
-Objectif : Confirmer que les facteurs socio-démographiques, environnementaux et techniques influencent significativement la gravité des accidents.
+-Objectif : Confirmer que les facteurs socio-démographiques, environnementaux et techniques influencent de manière significative la gravité des accidents, tout en identifiant les variables les plus déterminantes. Cela nous permettra d’obtenir une vision plus claire de notre problématique avant de la modéliser et de la concrétiser à travers des modèles prédictifs.
 
 # 3. Modélisation Prédictive
 
