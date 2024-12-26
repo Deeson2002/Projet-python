@@ -81,6 +81,14 @@ Comment peut-on mettre en place une segmentation efficace des accidents routiers
 
 -L’évaluation nous montrera quel modèle est le plus efficace, celui offrant la meilleure capacité de prédiction.
 
+
+
 -Enfin, une réduction du nombre de variables sera réalisée à travers l'identification des variables les plus importantes pour simplifier le modèle tout en préservant sa précision. Cette approche permettra d’optimiser le modèle, de réduire les coûts de collecte de données et d'accélérer le traitement des informations, ce qui est essentiel dans le cadre d’une étude à grande échelle impliquant des métadonnées.
 
 **Ainsi, l'objectif de ce travail sera de répondre à notre problématique en segmentant efficacement les accidents selon leur gravité et en identifiant les variables les plus importantes, tout en optimisant les modèles pour une prédiction précise et rapide.**
+
+# Référence
+
+Voici une référence pour ce travail :  
+
+**Galiana, Lino. 2023.** *Python pour la Data Science*. [https://doi.org/10.5281/zenodo.8229676](https://doi.org/10.5281/zenodo.8229676).
