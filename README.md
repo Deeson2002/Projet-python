@@ -53,11 +53,11 @@ Comment peut-on mettre en place une segmentation efficace des accidents routiers
 
 **Nettoyage des données, incluant :**
 
-*Détection et gestion des valeurs manquantes, des doublons et des valeurs erronées.*
+*1)Détection et gestion des valeurs manquantes, des doublons et des valeurs erronées.*
 
-*Création de variables synthétiques, comme l’âge (calculé à partir de la date de naissance), et identification de regroupements via K-means.*
+*2)Création de variables synthétiques, comme l’âge (calculé à partir de la date de naissance), et identification de regroupements via K-means.*
 
-*Identification et traitement des outliers à l’aide de techniques et Isolation Forest.*
+*3)Identification et traitement des outliers à l’aide de techniques et Isolation Forest.*
 
 **-Résultat attendu : Une base de données propre et prête pour l’analyse descriptive.**
 
