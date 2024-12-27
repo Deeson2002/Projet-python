@@ -87,6 +87,42 @@ Comment mettre en place une segmentation efficace des accidents routiers selon l
 
 **-Ainsi, l'objectif de ce travail sera de répondre à notre problématique en segmentant efficacement les accidents selon leur gravité et en identifiant les variables les plus importantes, tout en optimisant les modèles pour une prédiction précise et rapide.**
 
+# Imports et installations nécessaires pour le projet 
+
+import pandas as pd
+
+import numpy as np
+
+import matplotlib.pyplot as plt
+
+import seaborn as sns
+
+import plotly.express as px
+
+import plotly.graph_objects as go
+
+from sklearn.ensemble import IsolationForest, RandomForestClassifier
+
+from sklearn.cluster import KMeans
+
+from sklearn.preprocessing import StandardScaler
+
+from sklearn.model_selection import train_test_split, cross_val_score
+
+from sklearn.metrics import classification_report, accuracy_score, confusion_matrix, roc_curve, roc_auc_score, f1_score
+
+from sklearn.feature_selection import SelectFromModel
+
+from sklearn.preprocessing import label_binarize
+
+from scipy.stats import chi2_contingency
+
+import xgboost as xgb
+
+from matplotlib import colormaps
+
+pip install nbformat
+
 # Référence
 
 **Galiana, Lino. 2023.** *Python pour la Data Science*. [https://doi.org/10.5281/zenodo.8229676](https://doi.org/10.5281/zenodo.8229676).
