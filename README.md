@@ -87,7 +87,7 @@ Comment mettre en place une segmentation efficace des accidents routiers selon l
 
 **-Ainsi, l'objectif de ce travail sera de répondre à notre problématique en segmentant efficacement les accidents selon leur gravité et en identifiant les variables les plus importantes, tout en optimisant les modèles pour une prédiction précise et rapide.**
 
-# Imports nécessaires pour le projet et installation des dépendances
+# Imports et installations nécessaires pour le projet 
 
 import pandas as pd
 
