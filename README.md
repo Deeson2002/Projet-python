@@ -67,7 +67,7 @@ Comment mettre en place une segmentation efficace des accidents routiers selon l
 
 1) Univariée : Exploration de chaque variable pour identifier les tendances globales. Les caractéristiques des accidents seront étudiées en fonction de l’âge des conducteurs, du type d’agglomération, des dispositifs de sécurité, etc.
 
--**-Nous utiliserons également des cartographies analytiques pour mieux mettre en évidence les tendances géographiques et les effets environnementaux, ainsi que leur impact sur la gravité des accidents.**
+**-Nous utiliserons également des cartographies analytiques pour mieux mettre en évidence les tendances géographiques et les effets environnementaux, ainsi que leur impact sur la gravité des accidents.**
 
 2) Bivariée : Analyse des relations entre différentes variables, par exemple :
 
