@@ -67,7 +67,7 @@ Comment mettre en place une segmentation efficace des accidents routiers selon l
 
 1) Univariée : Exploration de chaque variable pour identifier les tendances globales. Les caractéristiques des accidents seront étudiées en fonction de l’âge des conducteurs, du type d’agglomération, des dispositifs de sécurité, etc.
 
-*Nous utiliserons également des cartographies analytiques pour mieux mettre en évidence les tendances géographiques et les effets environnementaux, ainsi que leur impact sur la gravité des accidents.*
+**-Nous utiliserons également des cartographies analytiques pour mieux mettre en évidence les tendances géographiques et les effets environnementaux, ainsi que leur impact sur la gravité des accidents.**
 
 2) Bivariée : Analyse des relations entre différentes variables, par exemple :
 
@@ -75,7 +75,7 @@ Comment mettre en place une segmentation efficace des accidents routiers selon l
 
 *L’impact du type de véhicule sur la gravité des blessures.*
 
-*Nous utiliserons des visualisations graphiques pour identifier des patterns et mieux comprendre les interactions complexes entre les variables.*
+**-Nous utiliserons des visualisations graphiques pour identifier des patterns et mieux comprendre les interactions complexes entre les variables.**
 
 **-Ainsi, l'objectif de cette partie sera de confirmer que les facteurs socio-démographiques, environnementaux et techniques influencent de manière significative la gravité des accidents, tout en identifiant les variables les plus déterminantes. Cela nous permettra d’obtenir une vision plus claire de notre problématique avant de la modéliser et de la concrétiser à travers des modèles prédictifs.**
 
